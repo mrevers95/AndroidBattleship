@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "716317120842",
+    "firebase_url": "https://androidbattleship.firebaseio.com",
+    "project_id": "androidbattleship",
+    "storage_bucket": "androidbattleship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716317120842:android:ab40cf45b2f86488",
+        "android_client_info": {
+          "package_name": "com.example.mitchellrevers.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716317120842-vn7dblll8pek2pumhqtu2ev4gdibrqek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyoZM3c0iN5HmsBkEkltbK5PEJslkErc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

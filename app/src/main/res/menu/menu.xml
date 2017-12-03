@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Home"
+        android:orderInCategory="100"
+        android:onClick="homeClick"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:title="Available Games"
+        android:orderInCategory="100"
+        android:onClick="availableGamesClick"
+        app:showAsAction="ifRoom"/>
+</menu>
